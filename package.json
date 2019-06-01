@@ -1,0 +1,14 @@
+{
+  "name": "historyparser",
+  "version": "1.0.0",
+  "description": "Parse property history files into real csvs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Steve Miller",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^4.3.5"
+  }
+}
